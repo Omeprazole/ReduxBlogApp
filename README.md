@@ -2,6 +2,10 @@ Rdux Blog App. learned from udemy course: https://www.udemy.com/react-redux/lear
 
 Step 1: Set up environment.
 
+Step 2:
+    Routes: http://reduxblog.herokuapp.com/
+
+
 
 
 
